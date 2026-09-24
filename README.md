@@ -86,7 +86,9 @@ I plan to continue improving these projects by adding:
 ##   Author
 
 **Muqaddis Saleem**
-Thank You!
+
+   Thank You!
+   
 Thank you for visiting my repository and reviewing my Python Building Quest.
 
 
